@@ -6,4 +6,4 @@
 
 
 ### 基础知识
-* 	[java](basic-java/java.md)
+* 	[java基础](basic-java/java.md)
